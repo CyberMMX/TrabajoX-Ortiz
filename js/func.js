@@ -3,6 +3,4 @@ function prueba(){
 }
 function agregar(){
 	alert("Soy una alerta");
-	
-
 }
